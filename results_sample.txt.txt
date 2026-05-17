@@ -1,0 +1,27 @@
+STUDENT RESULTS
+========================================
+Name: Yashi
+Average: 81.3
+Grade: B
+Comment: Very Good Work!
+----------------------------------------
+Name: Radhika
+Average: 99.0
+Grade: A
+Comment: Excellent Performance!
+----------------------------------------
+Name: Dnyaneshwari
+Average: 83.7
+Grade: B
+Comment: Very Good Work!
+----------------------------------------
+Name: Krisha
+Average: 79.0
+Grade: C
+Comment: Good Job. Improve More.
+----------------------------------------
+Name: Madhura
+Average: 57.0
+Grade: F
+Comment: Failed. Study Hard.
+----------------------------------------

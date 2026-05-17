@@ -1,0 +1,29 @@
+Test Case 1
+Student 1:
+Name: Yashi
+Math: 98
+Science: 88
+English: 58
+
+Student 2:
+Name: Radhika
+Math: 98
+Science: 99
+English: 100
+
+--------------------------------
+
+Test Case 2
+Student 1:
+Name: Dnyaneshwari
+Math: 78
+Science: 88
+English: 85
+
+--------------------------------
+
+Edge Cases
+- Empty student name
+- Marks greater than 100
+- Negative marks
+- Entering letters instead of numbers
